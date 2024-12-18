@@ -2,6 +2,19 @@
 This repository shows the results of creating a chatbot on Jetson Nano's Python to answer real-time concentrations.
 
 
+```
+Supplies
+1. Jetson Nano
+2. monitor(Recommend having a monitor in addition to your computer. If you use it on your computer (especially a laptop), there is a possibility of an OS collision.)
+3. LAN USB
+4. power(You have to use 5A with power. If you use more than that, Jetson Nano will be ruined.)
+5. Wired mouse and keyboard(Wireless mice and keyboards are also available, but this repository does not show how to connect them.)
+6. SD card(least to 32 GB)
+7. cm1106(Carbon dioxide sensor)
+8. Cable wire connecting Jetson Nano to sensor
+```
+
+
 ### This is the code that you need to create a Python virtual environment on Jetson Nano, then open the Jupiter laptop, create a file, and enter it.
 
 ```
