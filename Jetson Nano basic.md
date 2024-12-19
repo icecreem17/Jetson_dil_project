@@ -27,7 +27,7 @@ P. S. MY laptop OS is Window. If your computer's OS is not Windows, steps 2-3 ar
 
 
 ### GO to 'https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit#write' and download the file for your computer's operating system.
-### And unzip the image file
+### And unzip the image file.
 
 
 
@@ -77,10 +77,10 @@ P. S. MY laptop OS is Window. If your computer's OS is not Windows, steps 2-3 ar
 
 
 ### - Insert the SD card containing the baked image into the Jetson Nano slot and gently press it. 
-### - Insert the hdmi wire cable 
-### - Insert wired mouse and keyboard cables
-### - Insert wired LAN USB
-### - Connecting the power(5A)
+### - Insert the hdmi wire cable. 
+### - Insert wired mouse and keyboard cables.
+### - Insert wired LAN USB.
+### - Connecting the power(5A).
 
 
 
@@ -131,7 +131,7 @@ P. S. MY laptop OS is Window. If your computer's OS is not Windows, steps 2-3 ar
 ![KakaoTalk_20241128_215122143_14](https://github.com/user-attachments/assets/49ade21d-a3af-4635-a03a-5a3f2c3843aa)
 ![image](https://github.com/user-attachments/assets/a92db102-bc7d-4f01-aa89-06383f92a2ad)
 
-### Computer reboot is start 
+### Computer reboot is start.
 ![KakaoTalk_20241128_215122143_15](https://github.com/user-attachments/assets/6159f73f-805a-484f-b3b9-2388ee6ccbd0)
 ![KakaoTalk_20241128_215122143_17](https://github.com/user-attachments/assets/c95807d0-4bbe-4ec8-b5f5-a5c0cdcfc87b)
 ![KakaoTalk_20241128_215122143_18](https://github.com/user-attachments/assets/ae50df59-96ef-43fa-a0d9-86e638e95146)
@@ -208,7 +208,7 @@ sudo apt-get update
 ![KakaoTalk_20241128_215141595_07](https://github.com/user-attachments/assets/80d1186a-c0d1-4b41-82b5-4bd142c9383d)
 
 
-### On the last line, [ Do you want to continue? [Y/n] ]'s written on the last line. So enter 'y'
+### On the last line, [ Do you want to continue? [Y/n] ]'s written on the last line. So enter 'y'.
 
 
 ![KakaoTalk_20241128_215141595_08](https://github.com/user-attachments/assets/f158951f-d387-44e6-8731-4caf60857506)
@@ -226,7 +226,7 @@ sudo apt-get install fcitx-hangul
 ![KakaoTalk_20241128_215141595_09](https://github.com/user-attachments/assets/9de4399b-457f-4f23-ab09-2e91577308e0)
 
 
-### On the last line, [ Do you want to continue? [Y/n] ]'s written on the last line. So enter 'y'
+### On the last line, [ Do you want to continue? [Y/n] ]'s written on the last line. So enter 'y'.
 
 
 ![image](https://github.com/user-attachments/assets/418c4afc-bac7-4634-85f9-3e58ef54125b)
@@ -247,7 +247,7 @@ sudo apt-get install fcitx-hangul
 
 
 ### When the installation is complete, change the lower keyboard input method system item to fcitx.
-### And reboot by entering the code below
+### And reboot by entering the code below.
 
 
 ```
@@ -285,7 +285,7 @@ im-config -n fcitx
 ![Screenshot from 2024-11-14 20-51-02](https://github.com/user-attachments/assets/46ddcb10-888a-4458-9901-f863b119ff4d)
 
 
-### Press the keyboard on the top or bottom of the right or your keyboard Language Conversion keyt o get a Korean-style Taegeuk pattern(or your nation pattern)
+### Press the keyboard on the top or bottom of the right or your keyboard Language Conversion keyt o get a Korean-style Taegeuk pattern.(or your nation pattern)
 ### If the shape of the national flag came out, it's completed.
 
 
@@ -305,7 +305,7 @@ code
 sudo apt install python3-pip
 ```
 
-### do you want to continue ? enter 'y'
+### do you want to continue ? enter 'y'.
 
 
 ```
@@ -346,7 +346,7 @@ sudo apt-get jtop
 ````
 
 
-### Check Jetson Nano's temperature
+### Check Jetson Nano's temperature.
 ### Connect the Jetson Nano and USB-Camera.
 
 
@@ -432,19 +432,19 @@ https://github.com/user-attachments/assets/753b3ac5-ee2d-4176-bb74-15c2a446380b
 -> Memory increased from 1.9 gigabytes to 18 gigabytes
 
 
-## 3. 주피터 노트북 접속
+## 3. Access to Jupiter Notebook
 
 
 ![Screenshot from 2024-11-21 19-33-56](https://github.com/user-attachments/assets/cc3f49f8-a8ee-41e4-9002-1b09daa73b44)
 
 
-## 4. 엄지 방향 사진 학습
+## 4. Learning Thumb Orientation Photography
 
 
 ![Screenshot from 2024-11-21 20-15-42](https://github.com/user-attachments/assets/a9084f30-7b82-4cbb-94a6-bd2273331c10)
 
 
-## 5. 엄지 방향 사진 예측 완료
+## 5. Complete thumb direction photo prediction
 
 
 ![Screenshot from 2024-11-21 20-23-43](https://github.com/user-attachments/assets/e84f3a5c-9297-408d-9863-99cf1b86ab61)
