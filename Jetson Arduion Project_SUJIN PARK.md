@@ -62,11 +62,32 @@ void loop() {
 
 
 
+## Fun experiments(You can skip it.)
+
+
+```
+Supplies
+1. Coca-cola
+2. Coca-Cola Zero
+3. Pepsi
+4. Pepsi Zero
+```
+
+
+### This experiment uses a carbon dioxide sensor to measure which of the above four types of cola contains a lot of carbon dioxide.
+### Watch Video 2 Provided
+
+
+
+
+
+
 ## 3. Jetson Nano Python3 code
 
 
 ### This code connects Arduino and Discord to give a ventilation alarm if the carbon dioxide concentration is 850 ppm or 1000 ppm, and a notification of completion of ventilation if the carbon dioxide concentration has returned to normal after ventilation.
 ### This code should generate a Python file in Jetson Nano and enter it into that file.
+### Watch Video 1 Provided
 
 
 ```
