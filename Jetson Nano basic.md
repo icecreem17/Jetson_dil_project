@@ -313,7 +313,7 @@ code
 sudo -H pip3 install -U jetson-stats
 ````
 
-### if you get an error, 
+### if you get an error, Enter the code below.
 
 
 ```
@@ -425,11 +425,11 @@ https://github.com/user-attachments/assets/753b3ac5-ee2d-4176-bb74-15c2a446380b
 
 
 ![스왑 사진  jpg](https://github.com/user-attachments/assets/a7e28215-6e86-488c-8f4b-01feaf3d4039)
- -> Process of setting to GUI mode during reboot
+### -> Process of setting to GUI mode during reboot
 
 
 ![Screenshot from 2024-11-21 20-20-05](https://github.com/user-attachments/assets/9793be0a-ea05-4966-9041-73e2d057b8b4)
--> Memory increased from 1.9 gigabytes to 18 gigabytes
+### -> Memory increased from 1.9 gigabytes to 18 gigabytes
 
 
 ## 3. Access to Jupiter Notebook
